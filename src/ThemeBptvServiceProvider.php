@@ -33,7 +33,7 @@ class ThemeBptvServiceProvider extends ServiceProvider
             'bptv' => [
                 'name' => 'AnimeSuborg',
                 'author' => 'contact.animehay@gmail.com',
-                'package_name' => 'ggg3/theme-bptv',
+                'package_name' => 'ggg3/theme-vipbpt',
                 'publishes' => ['bptv-assets'],
                 'preview_image' => '',
                 'options' => [
